@@ -124,7 +124,7 @@
 >
 > He said that he would do XXXXXXXXXX.
 
-## 基本时态
+## 基本状态
 
 也有四种：一般时态、进行时态、完成时态、完成进行时态
 
